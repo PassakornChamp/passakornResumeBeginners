@@ -44,18 +44,16 @@ export default function Hero() {
           <a href="https:/twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
-        </span>
-        <span>
+
           <a href="https:/github.com/" target="_blank">
             <img src={githubIcon} alt="github icon" />
           </a>
-        </span>
-        <span>
+
           <a href="https:/linkedin.com/" target="_blank">
             <img src={linkedinIcon} alt="linkedin icon" />
           </a>
         </span>
-        <p>
+        <p className={styles.description}>
           With a passion for developing modern React web apps for commercial
           businesses.
         </p>
