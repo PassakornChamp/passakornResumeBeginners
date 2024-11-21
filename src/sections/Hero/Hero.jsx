@@ -41,7 +41,7 @@ export default function Hero() {
         </h1>
         <h2>Frontend Developer</h2>
         <span>
-          <a href="https:/twitter.com/" target="_blank">
+          <a href="https://x.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
 
@@ -52,7 +52,7 @@ export default function Hero() {
             <img src={githubIcon} alt="github icon" />
           </a>
 
-          <a href="https:/linkedin.com/" target="_blank">
+          <a href="https://th.linkedin.com/" target="_blank">
             <img src={linkedinIcon} alt="linkedin icon" />
           </a>
         </span>
