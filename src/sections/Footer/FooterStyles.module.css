@@ -12,9 +12,10 @@
 } */
 
 .container {
-  display: flex;
+  display: block;
   justify-content: center;
   text-align: center;
+  padding-top: 20px;
 
   p {
     font-size: 16px;

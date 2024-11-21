@@ -1,8 +1,8 @@
 import React from "react";
 import styles from "../Project/ProjectStyles.module.css";
 
-import ThaiTour from "../../assets/Thaipng.png";
-import Hipsster from "../../assets/hipsster.png";
+import ThaiTour from "../../assets/Thaipng-removebg-preview.png";
+import Hipsster from "../../assets/consulting.png";
 import ProjectCard from "../../common/ProjectCard";
 
 const data = [
@@ -17,8 +17,7 @@ const data = [
     project: "Bussiness website",
     detail: "Build Landing page for business",
     img: Hipsster,
-    github:
-      "https://github.com/PassakornChamp/react-tourist-attraction-mini-project/tree/Champ",
+    github: "https://github.com/PassakornChamp/CSS-miniProject",
   },
 ];
 
