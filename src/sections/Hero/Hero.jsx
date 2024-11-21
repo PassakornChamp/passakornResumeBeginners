@@ -45,7 +45,10 @@ export default function Hero() {
             <img src={twitterIcon} alt="Twitter icon" />
           </a>
 
-          <a href="https:/github.com/" target="_blank">
+          <a
+            href="https://github.com/PassakornChamp?tab=repositories"
+            target="_blank"
+          >
             <img src={githubIcon} alt="github icon" />
           </a>
 
