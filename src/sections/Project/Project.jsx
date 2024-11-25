@@ -11,7 +11,7 @@ const data = [
     detail: "Recomend atrractive place",
     img: ThaiTour,
     github:
-      "https://github.com/PassakornChamp/react-tourist-attraction-mini-project/tree/Champ",
+      "https://github.com/PassakornChamp/react-tourist-attraction-mini-project",
   },
   {
     project: "Bussiness website",
